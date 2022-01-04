@@ -1,0 +1,19 @@
+#local lib
+-e .
+
+#dvc
+dvc
+dvc[gdrive]
+dvc[s3]
+
+#ml packages
+pandas
+scikit-learn
+
+#testing packages
+pytest
+tox
+flake8
+
+#web app packages
+flask
