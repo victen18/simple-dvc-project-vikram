@@ -128,4 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-.csv
+artifacts/raw_local_data_dir/data.csv
