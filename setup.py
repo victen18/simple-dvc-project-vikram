@@ -10,7 +10,7 @@ setup(
     description="Small package for dvc ml pipeline",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/victen18/dvc-basic-demo",
+    url="https://github.com/victen18/simple-dvc-project-vikram",
     author_email="vikramnimmakuri@gmail.com",
     #package_dir={"":"src"},
     #packages=find_packages(where="src"),
